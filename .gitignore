@@ -1,0 +1,4 @@
+geckodriver.log
+superlists/db.sqlite3
+python-tests
+superlists/geckodriver.log
